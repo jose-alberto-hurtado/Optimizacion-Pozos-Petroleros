@@ -53,10 +53,12 @@ Editar
 pip install -r requirements.txt
 Abrir el archivo optimización_pozos_petroleros_modelos_bootstrapping.ipynb en Jupyter Notebook o JupyterLab.
 Ejecutar las celdas paso a paso para replicar el análisis.
+
 Autor
 José Alberto Hurtado Echeverría
 Científico de datos en formación.
 
-LinkedIn
-GitHub
+LinkedIn: https://www.linkedin.com/in/jose-alberto-echeverr%C3%ADa-77910a319
+GitHub: https://github.com/jose-alberto-hurtado
+
 
