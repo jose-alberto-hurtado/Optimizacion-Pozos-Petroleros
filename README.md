@@ -22,18 +22,21 @@ Estructura del Repositorio
 optimización_pozos_petroleros_modelos_bootstrapping.ipynb: Notebook principal con el análisis, entrenamiento de modelos y visualizaciones.
 README.md: Archivo de documentación del proyecto.
 .gitignore: Archivo que define los archivos y carpetas ignorados por Git.
+
 Metodología
 Exploración de Datos: Limpieza y análisis de las características de cada región.
 Entrenamiento de Modelos: Uso de regresión lineal para predecir la producción de los pozos.
 Evaluación de Métricas: Comparación de RMSE, ganancias y riesgos entre regiones.
 Visualización: Gráficas de ganancias esperadas, intervalos de confianza y riesgos.
 Selección Final: Identificación de la mejor región basándose en métricas de rendimiento.
+
 Tecnologías Utilizadas
 Python: Lenguaje principal.
 Pandas: Manipulación y análisis de datos.
 NumPy: Operaciones matemáticas y estadísticas.
 Matplotlib: Visualización de datos.
 Scikit-learn: Entrenamiento y evaluación de modelos predictivos.
+
 Resultados Principales
 La Región 0 fue seleccionada como la mejor opción, con una ganancia esperada de $39,960,488.77 y riesgo de pérdida del 0.0%.
 Comparación de regiones:
@@ -48,8 +51,6 @@ Editar
 git clone https://github.com/jose-alberto-hurtado/Optimizacion-Pozos-Petroleros.git
 Instalar las dependencias necesarias:
 bash
-Copiar
-Editar
 pip install -r requirements.txt
 Abrir el archivo optimización_pozos_petroleros_modelos_bootstrapping.ipynb en Jupyter Notebook o JupyterLab.
 Ejecutar las celdas paso a paso para replicar el análisis.
