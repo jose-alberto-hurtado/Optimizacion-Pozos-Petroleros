@@ -59,6 +59,7 @@ José Alberto Hurtado Echeverría
 Científico de datos en formación.
 
 LinkedIn: https://www.linkedin.com/in/jos%C3%A9-alberto-hurtado-echeverr%C3%ADa-77910a319/
+
 GitHub: https://github.com/jose-alberto-hurtado
 
 
